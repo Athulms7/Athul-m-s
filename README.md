@@ -50,6 +50,7 @@ I am a **Computer Science Engineering** student passionate about full-stack deve
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
 ![Hono.js](https://img.shields.io/badge/Hono.js-232323?style=for-the-badge&logo=hono&logoColor=white)&nbsp;
 ![NextAuth.js](https://img.shields.io/badge/NextAuth-black?style=for-the-badge&logo=nextauth&logoColor=white)&nbsp;
+![Flask](https://camo.githubusercontent.com/16f9c749a14960dbe5c84cf8b66cfa3b04d8d39022654239755ae1e5114fd068/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c61736b2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d666c61736b266c6f676f436f6c6f723d7768697465)&nbsp;
 
 ###### Deployment & Cloud Services:
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)&nbsp;
