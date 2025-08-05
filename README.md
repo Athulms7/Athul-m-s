@@ -121,17 +121,17 @@ I am a **Computer Science Engineering** student passionate about full-stack deve
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Brainly</h3>
+      <h3 align="center">Todo</h3>
       <div align="center">
-        <a href="https://github.com/Athulms7/Barinly" target="_blank">
+        <a href="https://github.com/Athulms7/Todo" target="_blank">
           <img src="https://img.shields.io/badge/View%20Project-2a2e30?style=for-the-badge&logo=github&logoColor=white" alt="Local Link">
         </a>
         <p>
-          <a href="https://github.com/Habeel-Shamsudeen/BlogVault" target="_blank">
+          <a href="https://github.com/Athulms7/Todo" target="_blank">
             <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
           </a>
         </p>
-        <p>Brainly is a simple software which acts like second brain and stores the links of youtube,twitter etc.</p>
+        <p>Todo is a simple software which acts to make todos and organize.It uses Oauth authentication and sends mail on todo creation.</p>
       </div>
     </td>
   </tr>
