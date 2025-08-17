@@ -9,7 +9,7 @@
 I am a **Computer Science Engineering** student passionate about full-stack development.I am constantly expanding my knowledge in modern web technologies. I love to learn and build something new, creative and impactful.
 - 📚 I'm currently learning:
   - *About Ai stacks
-  - *Advanced Backend Communication*
+  - *Advanced Backend Communication.*
 - 🚀 I'm eager to join new projects and collaborate with other developers.
 - ✔ Feel free to ask me about web development or any tech-related questions!
 - Outside tech, I enjoy connecting with people, exploring new places, and continuously learning new skills.
